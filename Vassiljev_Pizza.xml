@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pizzeria>
+    <pizza name="JURA">
+        <ingredients>
+
+            <ingredient name="Yeast dough">
+                <weight>400 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Bacon">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Cheese">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="dry italian herbs">
+                 <weight>1 tsp</weight>
+            </ingredient>
+
+            <ingredient name="Tomato sauce (homemade)">
+                <weight> 10 tbsp</weight>
+            </ingredient>
+
+        </ingredients>
+    
+        <cooking>
+            <time>15-20 min</time>
+            <where>oven</where>
+            <degrees>190</degrees>
+        </cooking>
+    </pizza>
+
+    <pizza name="JURA">
+        <ingredients>
+
+            <ingredient name="Yeast dough">
+                <weight>400 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Bacon">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Cheese">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="dry italian herbs">
+                 <weight>1 tsp</weight>
+            </ingredient>
+
+            <ingredient name="Tomato sauce (homemade)">
+                <weight> 10 tbsp</weight>
+            </ingredient>
+
+        </ingredients>
+    </pizza>
+</Pizzeria>
